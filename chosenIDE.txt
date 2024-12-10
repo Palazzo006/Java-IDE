@@ -1,0 +1,2 @@
+I chose Visual Studio Code as my IDE because it is lightweight and fairly easy to use. I can integrate my project (Java-IDE) with GitHub and it supports Java programming language.
+Until I get my situation sorted out with the Student account set up in IntelliJ, I'll just use VS Code since I have a little experience with VS from my C# classes and in my job as QA. 
